@@ -13,3 +13,7 @@ with FinalScore being a final exam that, if higher than the average of the other
 ## Outcome
 
 The final results will be output in a .txt file with the department name and top performing students. Sample files have been included for a trial run.
+
+### Requirements
+
+There are no 3rd party modules or CLI arguments. Just all Python built in objects are used.
